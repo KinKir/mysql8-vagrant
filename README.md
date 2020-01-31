@@ -1,4 +1,4 @@
-# MySQL 8 + ubuntu/bionic64
+# MySQL 8 + ubuntu/bionic64 (Ubuntu 18 LTS)
 This is a vagrant box with MySQL 8 for development purposes.  
 
 # Installation
@@ -10,8 +10,11 @@ vagrant ssh
 
 # Credentials
 host: 10.20.30.40
+
 user: root
+
 password: root
+
 port: 3306
 
 # Notes
